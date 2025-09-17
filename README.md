@@ -11,8 +11,8 @@ Prompt utilizado:
 
 Resposta gerada: <br>
 <div allign="left">
-<img width="413" height="900" alt="image" src="https://github.com/user-attachments/assets/cdc717cd-3a40-4ded-8d22-fc1006258203" />
-<img width="406" height="364" alt="image" src="https://github.com/user-attachments/assets/47e3e85b-2a2c-444b-bebb-e4a5d36bdd8e" />
+<img width="508" height="847" alt="image" src="https://github.com/user-attachments/assets/abc0346d-6877-4b69-b710-f5b72e391375" />
+<img width="508" height="847" alt="image" src="https://github.com/user-attachments/assets/9b2af1c9-a64d-43b5-9ca2-21f1b12d10e1" />
 </div>
 
 
