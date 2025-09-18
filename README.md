@@ -119,16 +119,12 @@ LLM Playground/
 
 ## Configuração da API
 
-A chave da API do Google Gemini já está configurada no arquivo `app.py`. Para usar sua própria chave:
+Usei a API do gemini para isso em `app.py`. Para usar sua própria chave:
 
 1. Obtenha uma chave em: https://aistudio.google.com/app/apikey
 2. Substitua a variável `GEMINI_API_KEY` em `app.py`
 
-## Aspectos Éticos
-
-Somente para estudos.
-
-## 📊 Como o Sistema Analisa Injections
+## Como o Sistema Analisa Injections (ainda em desenvolvimento)
 
 O sistema pontua automaticamente o sucesso da injection baseado em:
 
