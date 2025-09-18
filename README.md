@@ -1,6 +1,6 @@
 # LLM Injection Playground
 
-Um playground interativo para testar técnicas de **Prompt Injection** contra modelos de linguagem (LLMs). Este projeto demonstra como diferentes ataques podem fazer um LLM quebrar suas regras originais.
+Um playground interativo para testar técnicas de Prompt Injection contra modelos de linguagem (Aqui só tem a API do gemini até então). Este projeto demonstra como diferentes ataques podem fazer um LLM quebrar suas regras originais.
 <div allign="center">
 <img width="1917" height="967" alt="image" src="https://github.com/user-attachments/assets/ef5d199d-2b95-45b3-91b8-6747515e45e3" />
 
