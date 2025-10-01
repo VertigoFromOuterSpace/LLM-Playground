@@ -34,20 +34,14 @@ Resposta gerada: <br>
 
 ## Instalação
 
-1. **Clone ou baixe o projeto**
-```bash
-cd "LLM Playground"
-```
-
-2. **Crie um ambiente virtual (recomendado)**
+**Crie um ambiente virtual (recomendado)**
 ```bash
 python3 -m venv venv
 source venv/bin/activate  # Linux/Mac
 # ou
 venv\Scripts\activate     # Windows
 ```
-
-3. **Instale as dependências**
+**Instale as dependências**
 ```bash
 pip install -r requirements.txt
 ```
