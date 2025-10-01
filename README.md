@@ -74,7 +74,7 @@ python -m http.server 8080
 3. **Execute o Teste**: Clique em "Testar Injection"
 4. **Analise os Resultados**: Veja se conseguiu burlar as regras
 
-## Exemplos de Técnicas
+## Exemplos de Técnicas (esssas daqui não vão funcionar por serem extremamente simples, mas servem como uma boa base)
 
 ### 1. **Ignore Previous Instructions**
 ```
